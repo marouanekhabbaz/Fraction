@@ -3,7 +3,7 @@ package com.thinkful.fraction;
 import java.util.Objects;
 
 public class Fraction {
-    public int numerator ;
+    private int numerator ;
     private  int denominator ;
 
     public Fraction(){
